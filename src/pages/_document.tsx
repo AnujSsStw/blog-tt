@@ -1,5 +1,4 @@
-import NextDocument, { Html, Main, NextScript } from "next/document";
-import Head from 'next/head'
+import NextDocument, { Html, Main, Head, NextScript } from "next/document";
 import { ColorModeScript } from "@chakra-ui/react";
 import theme from "../theme";
 
